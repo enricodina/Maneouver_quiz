@@ -1,0 +1,15 @@
+Random
+Windshear		predictive only	Disconnect AP AT	TOGA trigger	Max thrust	15 degree up. Wing level	Speed brake down	Continue to pull to PLI if needed	Do not change config	Recover “GA Set Thrust”											
+EGPWS			Disconnect AP AT	Max thrust	20 degree up. Wing level				Speed brake down											
+TCAS		descending below 1k	Disconnect AP AT	TCAS RA	Clear of Conflict						
+Stall			Disconnect AP AT	Push towards horizon. Wing level	Adjust thrust	SpeedBrake					
+Go Around		above MAA disc app	TOGA Trigger	@ Go Around Set Thrust	@ Flaps 20	@ Thrust LNAV TOGA   # Positive Climb	@ Gear up	Alt Clean FLCH			
+Balked Landing		reverse up	@" GoAround Set Thrust	#" Thrust Set   #" Rotate	@ TOGA Trigger	@" Go Around Set Thrust     @" Flaps 20  #" Thrust Set   @" Thrust LNAV TOGA	@ Positive Rate
+Rejected Take Off		go options, Fire eng, above 80, below	@ STOP	Close thrust levers	Disconnect AutoThrottle	Auto brakes - brake manual	Full Reverse	SpeedBrake	Parking Brake	This is the Captain. Cabin crew at your stations	
+CAT3B		land /GA options, downgrade																
+Engine Fail		before v1, v1-v2	Thrust	Rudder	Pitch 10+	Gear up	Warnings - Autopilot	Trim	400 - No memory		
+Eng fail cruise		MCP failed									
+Engine Fire			Thrust	Rudder	Pitch 10+	Gear up	Warnings - Autopilot	Trim	400 - Memory items		
+Upset Nose Up			Disconnect AP AT	Push - Nose down pitch	Power - Reduce pitch up	Roll - Help pitch down	Stabilize - Towards horizon. Speedbrake speed				
+Upset Nose Down			Disconnect AP AT	Push - Unload wing	Roll - Wings level	Power - Thrust	Stabilize				
+Cabin Altitude		controllable/ not damage/not stop above 10k/not									
